@@ -59,6 +59,23 @@ display: inline;
 display: inline;
 }
 
+#searchform input#s:focus{
+    width: 100%;
+    }
+
+header form {
+    float: right;
+    margin-right: 8%;
+    padding: 0.4% 0 0 4%;
+    width: 20%;
+}
+
+#commentform input, #searchform input#s {
+        width: 60%;
+        transition: all 0.7s ease 0s;
+    }
+
+
 
 /* =Reset
 -------------------------------------------------------------- */
