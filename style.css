@@ -556,7 +556,7 @@ a:hover {
 }
 .site-content {
 	margin: 12px 0 0;
-	margin: 0.714rem 0 0; 
+	margin: 0.714rem 0 0;
 }
 .widget-area {
 	margin: 24px 0 0;
@@ -1756,3 +1756,6 @@ img#wpstats {
 	}
 }
 
+.moretag{
+	text-decoration: none;
+}
