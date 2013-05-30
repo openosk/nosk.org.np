@@ -1,7 +1,9 @@
 <?php get_header(); ?>
 
-<div id="primary" class="site-content">
+<div id="primary" class="site-content front-page">
     <div id="content" role="main">
+
+        <h1>Recent Posts:</h1>
 
         <?php if ( have_posts() ) while ( have_posts() ) : the_post(); ?>
 

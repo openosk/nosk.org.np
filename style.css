@@ -1759,3 +1759,13 @@ img#wpstats {
 .moretag{
 	text-decoration: none;
 }
+
+footer .site-info{
+	text-align: center;
+}
+
+.front-page h1{
+	font-size: x-large;
+	padding:10px;
+	padding-left:0px;
+}
