@@ -1787,3 +1787,15 @@ footer .site-info{
 h2.tribe-events-cal-title {
 	margin-top: 10px;
 }
+
+.contact-form label{
+width: 110px;
+}
+
+.contact-form label, .contact-form input, .contact-form textarea{
+	display: inline-block;
+}
+
+.contact-form .field{
+	padding: 10px;
+}
