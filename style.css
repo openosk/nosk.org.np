@@ -1774,3 +1774,12 @@ footer .site-info{
 	display: inline;
 }
 
+/*social bookmarking icons*/
+.lightsocial_element{
+    display: inline;
+}
+
+.lightsocial_element img{
+    border: none;
+    padding: 0px 5px 0px 0px;
+}
