@@ -1783,3 +1783,7 @@ footer .site-info{
     border: none;
     padding: 0px 5px 0px 0px;
 }
+
+h2.tribe-events-cal-title {
+	margin-top: 10px;
+}
