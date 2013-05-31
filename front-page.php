@@ -26,5 +26,5 @@ query_posts('showposts=10');
 </div><!-- #content -->
 </div><!-- #primary -->
 
-
+<?php get_sidebar( 'front' ); ?>
 <?php get_footer(); ?>
